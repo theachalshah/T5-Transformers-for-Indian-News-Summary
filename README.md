@@ -11,7 +11,7 @@ In this case for summarizing we need to add the “summarize:” prefix to the i
 
 T5 was trained on the C4 (Colossal Clean Crawled Corpus) dataset. The authors, through experimentation, came to the conclusion that the best performance is provided when the model is trained for 1 million steps with a batch size of 2 power 11 sequences of 512 lengths.
 
-inshorts is a news app that summarizes long news articles in 60 words. The following dataset used contains the same:
+inshorts is a news app that summarizes long news articles in 60 words. The following dataset used contains the same: https://github.com/theachalshah/T5-Transformers-for-Indian-News-Summary/blob/main/news_summary.csv
 
 
 Evaluation:-
