@@ -18,6 +18,6 @@ Evaluation:-
 
 Loss on last epoch = 0.73
 
-Actual Summary – PM Narendra Modi on Thursday launched Ude Desh ka Aam Nagrik (UDAN) scheme for regional flight connectivity by flagging off the inaugural flight from Shimla to Delhi. Under UDAN, government will connect small towns by air with 50% plane seats’ fare
+Sample Actual Summary – PM Narendra Modi on Thursday launched Ude Desh ka Aam Nagrik (UDAN) scheme for regional flight connectivity by flagging off the inaugural flight from Shimla to Delhi. Under UDAN, government will connect small towns by air with 50% plane seats’ fare
 
-Predicted Summary – the first UDAN flight took off from Shimla on Wednesday after being flagged by PM Narendra Modi. The scheme, which seeks to make flying more affordable for common people, has been described as “a first-of its kind globally”. Under UDA, 50% of seats on each flight would have capped at?2,500 per seat/hour. It will be operated under Alliance Air’ regional arm of Air India. This comes after Prime Minister Narendra Modiji handed over boarding passes to some passengers travelling via the first launch flights starting from Shilkhand today.
+Sample Predicted Summary – the first UDAN flight took off from Shimla on Wednesday after being flagged by PM Narendra Modi. The scheme, which seeks to make flying more affordable for common people, has been described as “a first-of its kind globally”. Under UDA, 50% of seats on each flight would have capped at?2,500 per seat/hour. It will be operated under Alliance Air’ regional arm of Air India. This comes after Prime Minister Narendra Modiji handed over boarding passes to some passengers travelling via the first launch flights starting from Shilkhand today.
